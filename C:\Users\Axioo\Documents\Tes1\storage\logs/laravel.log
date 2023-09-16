@@ -1,0 +1,80 @@
+[2023-09-12 14:04:41] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\Users\Axioo\Documents\Tes1\resources\views" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\Component\Finder\Finder->in()
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\Users\\Axioo\\Documents\\Tes1\\resources\\views\" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in()
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown at /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-12 15:44:06] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\Users\Axioo\Documents\Tes1\resources\views" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\Component\Finder\Finder->in()
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\Users\\Axioo\\Documents\\Tes1\\resources\\views\" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in()
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown at /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-12 16:02:14] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\Users\Axioo\Documents\Tes1\resources\views" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\Component\Finder\Finder->in()
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\Users\\Axioo\\Documents\\Tes1\\resources\\views\" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in()
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown at /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-13 01:45:34] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\Users\Axioo\Documents\Tes1\resources\views" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\Component\Finder\Finder->in()
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\Users\\Axioo\\Documents\\Tes1\\resources\\views\" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in()
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown at /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-13 03:47:20] local.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\Users\Axioo\Documents\Tes1\resources\views" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\Component\Finder\Finder->in()
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\Users\\Axioo\\Documents\\Tes1\\resources\\views\" directory does not exist. in /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640
+Stack trace:
+#0 /home/kurniawan/development/Tes1/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in()
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files()
+#2 Command line code(1): getViews()
+#3 {main}
+  thrown at /home/kurniawan/development/Tes1/vendor/symfony/finder/Finder.php:640)
+[stacktrace]
+#0 {main}
+"} 
